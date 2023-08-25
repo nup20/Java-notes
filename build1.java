@@ -1,7 +1,7 @@
 package stringbuilder;
 
 public class build1  {
-
+//StringBuilder
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		StringBuilder sb=new StringBuilder("Tony");
