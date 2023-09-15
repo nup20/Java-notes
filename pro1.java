@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class pro1 {
 int a=10;
+	
 
 	public void add()
 	{
