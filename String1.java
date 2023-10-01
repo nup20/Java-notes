@@ -17,6 +17,7 @@ public class String1 {
 			  System.out.println(a);
 			 System.out.println(name);
 			 System.out.println(s);
+			System.out.println(i)
 		
 
 	}
