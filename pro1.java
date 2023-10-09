@@ -2,6 +2,7 @@ package stringpractice;
 import java.util.Scanner;
 
 
+
 public class pro1 {
 int a=10;
 	
