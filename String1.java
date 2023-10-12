@@ -6,6 +6,7 @@ public class String1 {
 
 		public static void main(String[] args) {
 			 //Scanner Sc=new Scanner(System.in);
+			
 			String a="String a"; //by String Literal 
 			
 			String name=new String("Example");
