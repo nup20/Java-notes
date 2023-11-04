@@ -12,7 +12,7 @@ public class String1 {
 			String name=new String("Example");
 			System.out.println("name ="+name);//(by New Keyword)
 			
-			 char ch[]= {'s','t','r','i','n','g'};
+			 char ch[]= {'s','t','r','i','n','g','u'};
 			 String s=new String(ch);//by converting char Array to String
 			 
 			  System.out.println(a);
