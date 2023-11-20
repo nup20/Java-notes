@@ -1,0 +1,25 @@
+package New;
+
+public class class2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//how to Swap 2 variable using 3 variable
+		int a=2;
+		int b=3;
+		int c;
+		
+		System.out.println("a is:"+a);
+		System.out.println("b is:"+b);
+		
+		c=a;
+		a=b;
+		b=c;
+		System.out.println("After Swaping:");
+		System.out.println("a is:"+a);
+		System.out.println("b is:"+b);
+		
+
+	}
+
+}
